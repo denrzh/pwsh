@@ -1,2 +1,1 @@
 # pwsh
-powershell system administration
